@@ -1,5 +1,10 @@
 # dynamusuts
 
+Github pages deployment of the content is available here:
+
+https://colinschlecht.github.io/dynamusuts-archive/
+
+
 ## Overview
 
 This is the downloaded content from the wayback machine on the internet archive. 
